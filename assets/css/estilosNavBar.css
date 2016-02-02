@@ -1,0 +1,32 @@
+div.navbar-header a.navbar-brand:hover{
+    color: #fff;
+    letter-spacing: 1.5px;
+       
+    
+}
+div.navbar-header a.navbar-brand{
+    transition-property: all;
+    transition-duration: 1s;
+}
+
+/* estilos del navbar, cambio de color del background y padding */
+ul.nav li:hover {
+    
+ background: #2a6496;
+ padding-right: 0px;
+ padding-left: 0px;
+
+}
+
+.navbar-right li a:hover{
+    
+   
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+ul.nav li{
+ transition-property: background, padding-left, padding-right, font-weight;
+ transition-duration: 1s, 1s, 0.5s ;
+    
+}

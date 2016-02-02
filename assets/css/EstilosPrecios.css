@@ -1,0 +1,150 @@
+.imagenDeFondo{
+    
+    z-index: 999;
+    width: 100%;
+    display: table;
+    max-height: 450px;
+    border-bottom: 2px solid #E6EAED;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -ms-box-sizing: border-box;
+    box-sizing: border-box;
+    padding-top: 30px;
+    padding-bottom: 70px;
+    margin-top: 45px;
+
+
+    background-position: center center;
+
+    -webkit-background-size: 100%;
+    -moz-background-size: 100%;
+    -o-background-size: 100%;
+    background-size: 100%;
+
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+    background-attachment: relative;
+    
+    text-align: center;
+     background-image: url('../img/business2.jpg')
+   
+    
+}
+
+
+
+div.columnas{
+    background: white;
+    margin-top: 50px;
+    margin-bottom: 40px;
+    border-radius: 2%;
+    border: 1px  grey;
+    border-style:  solid;
+    
+    
+}
+
+div.precio{
+    
+    margin-top: 20px;
+    text-align: center;
+    border-radius: 5%;
+    
+}
+
+p.tituloSeccionPrecios1{
+    
+    color:  #3071a9;   
+    padding-top: 20px;
+    margin-top: 0;   
+    font-size: 1.5em;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    font-weight: 800;
+   
+}
+
+p.tituloSeccionPrecios2{
+    
+    color:green;   
+    padding-top: 20px;
+    margin-top: 0;   
+    font-size: 1.5em;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    font-weight: 800;
+   
+}
+
+p.tituloSeccionPrecios3{
+    
+    color: violet;   
+    padding-top: 20px;
+    margin-top: 0;   
+    font-size: 1.5em;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    font-weight: 800;
+   
+}
+
+p.tituloSeccionPrecios4{
+    
+    color:  #a4003a;   
+    padding-top: 20px;
+    margin-top: 0;   
+    font-size: 1.5em;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    font-weight: 800;
+   
+}
+
+p.fondo2, p.fondo1{
+    line-height: 110%;
+}
+
+.fondo1{
+   font-weight: 600;
+   color: #2098d1;
+   opacity: 1;
+  
+}
+
+.fondo2{
+   font-weight: 600;
+   color: #3c763d;
+   opacity: 1;
+   
+    
+}
+
+.fondo3{
+   font-weight: 600;
+   color: #e4b9b9;
+   opacity: 1;
+    
+}
+
+.fondo4{
+   font-weight: 600;
+   color: #c7254e;
+   opacity: 1;
+    
+}
+
+.numero{
+    font-size: 1.8em;
+    font-weight: bold;
+    color: black;
+   
+}
+
+.icono{
+    float: right;
+    margin-top: 10px;
+}
+

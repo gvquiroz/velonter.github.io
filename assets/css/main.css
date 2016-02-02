@@ -128,8 +128,7 @@ border: 0px solid transparent;
 
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-	background-color: #16a085;
-	color: white;
+	
 }
 
 
@@ -416,7 +415,7 @@ a:after {
 }
 
 .divider2 {
-	background-image: url('../img/bg/divider2.jpg')
+	background-image: url('../img/bg/Escuela-de-business.jpg')
 }
 
 .divider3 {

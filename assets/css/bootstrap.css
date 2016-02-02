@@ -5593,7 +5593,7 @@ button.close {
   .carousel-caption {
     right: 20%;
     left: 20%;
-    padding-bottom: 30px;
+    padding-bottom: 30px; /* Maneja la altura de la palabra (caption) que se le da a la imagen*/
   }
   .carousel-indicators {
     bottom: 20px;

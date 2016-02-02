@@ -1,0 +1,58 @@
+.degradeAzul{
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(84,172,194,1)), color-stop(57%, rgba(19,95,153,1)), color-stop(98%, rgba(80,98,201,1)), color-stop(100%, rgba(80,98,201,1)));
+background: -webkit-linear-gradient(left, rgba(84,172,194,1) 0%, rgba(19,95,153,1) 57%, rgba(80,98,201,1) 98%, rgba(80,98,201,1) 100%);
+background: -o-linear-gradient(left, rgba(84,172,194,1) 0%, rgba(19,95,153,1) 57%, rgba(80,98,201,1) 98%, rgba(80,98,201,1) 100%);
+background: -ms-linear-gradient(left, rgba(84,172,194,1) 0%, rgba(19,95,153,1) 57%, rgba(80,98,201,1) 98%, rgba(80,98,201,1) 100%);
+background: linear-gradient(to right, rgba(84,172,194,1) 0%, rgba(19,95,153,1) 57%, rgba(80,98,201,1) 98%, rgba(80,98,201,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#54acc2', endColorstr='#5062c9', GradientType=1 );
+    
+    
+
+}
+
+.degradeRojo{
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(248,80,50,1)), color-stop(13%, rgba(241,111,92,1)), color-stop(51%, rgba(246,41,12,1)), color-stop(96%, rgba(209,165,161,1)), color-stop(100%, rgba(209,165,161,1)));
+background: -webkit-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(246,41,12,1) 51%, rgba(209,165,161,1) 96%, rgba(209,165,161,1) 100%);
+background: -o-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(246,41,12,1) 51%, rgba(209,165,161,1) 96%, rgba(209,165,161,1) 100%);
+background: -ms-linear-gradient(left, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(246,41,12,1) 51%, rgba(209,165,161,1) 96%, rgba(209,165,161,1) 100%);
+background: linear-gradient(to right, rgba(248,80,50,1) 0%, rgba(241,111,92,1) 13%, rgba(246,41,12,1) 51%, rgba(209,165,161,1) 96%, rgba(209,165,161,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f85032', endColorstr='#d1a5a1', GradientType=1 );
+
+
+
+padding-top: 30px;
+padding-bottom: 50px;
+text-align: center;
+line-height: 1px;
+font-weight: 500;
+}
+
+.degradeNegro{
+    background: rgba(76,76,76,1);
+background: -moz-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 19%, rgba(43,43,43,1) 78%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(76,76,76,1)), color-stop(19%, rgba(89,89,89,1)), color-stop(78%, rgba(43,43,43,1)), color-stop(91%, rgba(28,28,28,1)), color-stop(100%, rgba(19,19,19,1)));
+background: -webkit-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 19%, rgba(43,43,43,1) 78%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: -o-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 19%, rgba(43,43,43,1) 78%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: -ms-linear-gradient(left, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 19%, rgba(43,43,43,1) 78%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+background: linear-gradient(to right, rgba(76,76,76,1) 0%, rgba(89,89,89,1) 19%, rgba(43,43,43,1) 78%, rgba(28,28,28,1) 91%, rgba(19,19,19,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#4c4c4c', endColorstr='#131313', GradientType=1 );
+}
+
+.degradeVioleta{
+    
+    background: rgba(0,7,133,1);
+background: -moz-linear-gradient(left, rgba(0,7,133,1) 0%, rgba(0,7,133,1) 3%, rgba(184,2,126,1) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(0,7,133,1)), color-stop(3%, rgba(0,7,133,1)), color-stop(100%, rgba(184,2,126,1)));
+background: -webkit-linear-gradient(left, rgba(0,7,133,1) 0%, rgba(0,7,133,1) 3%, rgba(184,2,126,1) 100%);
+background: -o-linear-gradient(left, rgba(0,7,133,1) 0%, rgba(0,7,133,1) 3%, rgba(184,2,126,1) 100%);
+background: -ms-linear-gradient(left, rgba(0,7,133,1) 0%, rgba(0,7,133,1) 3%, rgba(184,2,126,1) 100%);
+background: linear-gradient(to right, rgba(0,7,133,1) 0%, rgba(0,7,133,1) 3%, rgba(184,2,126,1) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#000785', endColorstr='#b8027e', GradientType=1 );
+
+
+padding-top: 30px;
+padding-bottom: 50px;
+text-align: center;
+line-height: 1px;
+font-weight: 500;
+}
